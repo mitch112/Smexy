@@ -1,0 +1,50 @@
+~ TODO LIST ~
+
++ Website
+- Enjin (just need banners & finishing touches)
+
++ Shops
+- Content + ids etc
+
++ Dialogues
+- New dialogues for where we need it
+
++ Economy (prices)
+- Check prices, adjust where needed to fit economy.
+
++ Training Areas
+- Revise training areas, make some new. (change existing teleports to better ones)
+
++ Dungeoneering
+- Make a temp dungeoneering
+- Make a floor progressing dungeoneering.
+
++ Donator Area
+- Donator area for donator only
+
++ Dicing
+- Fix dice source
+
++ Donator shop
+- Donator only shop!
+
++ Commands
+- Add donator commands.
+- Revise old commands
+
++ Boss drops
+- Check drops & modify.
+
++ Automated donation
+- Paypal, find code online..
+
++ Packages
+- Package code.
+- PVP, PvE, Skiller packages.
+
++ Rock Crabs
+- Add more crabs.
+
++ Experiments
+- Add the actual npcs
+

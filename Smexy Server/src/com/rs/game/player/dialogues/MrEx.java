@@ -16,7 +16,7 @@ public class MrEx extends Dialogue {
 		npcId = (Integer) parameters[0];
 		sendEntityDialogue(SEND_2_TEXT_CHAT,
 				new String[] { NPCDefinitions.getNPCDefinitions(npcId).name,
-						"Hello, I can teleport you all around Azureify,",
+						"Hello, I can teleport you to the training areas",
 						" would you like to?" }, IS_NPC, npcId, 9827);
 	}
 

@@ -2012,7 +2012,7 @@ return true;
 			for (int i = 0; i < 316; i++){
 			player.getPackets().sendIComponentText(275, i, " ");
 			}
-			player.getPackets().sendIComponentText(275, 2, "Zenith Command Central");
+			player.getPackets().sendIComponentText(275, 2, "Smexy Commands");
 			player.getPackets().sendIComponentText(275, 14, "GoTo Website");
 			player.getPackets().sendIComponentText(275, 16, "Places COMMANDS");
 			player.getPackets().sendIComponentText(275, 18, "::kq    ---------------    Kalphite Queen                     ");
